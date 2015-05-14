@@ -1,0 +1,18 @@
+.text-center{
+    text-align: center;
+}
+.slideshow{
+    margin: auto;
+}
+.slideshow img{
+    padding: 5px;
+    width: 150px;
+}
+.cycle-pager span{
+    font-size: 50px;
+    color: #999;
+    cursor: pointer;
+}
+.cycle-pager span.cycle-pager-active{
+    color: #00aced;
+}
